@@ -1,0 +1,3 @@
+rootProject.name = 'sdktest'
+
+include ':app'
